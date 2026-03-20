@@ -1,2 +1,3 @@
-# open-ml-project-keda
-A machine learning project for modern development workflows
+# Open Ml Project Keda
+
+A machine learning project for modern development workflows.
